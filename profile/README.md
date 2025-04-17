@@ -2,6 +2,15 @@
 
 Welcome to the official GitHub page of the Graph-Based Archival Description project. The project is brought to you by a team from the Archives of Ontario and University of Toronto and co-funded from a Canadian federal grant.
 
+# Implementation Toolkit
+
+April 2025 Update: To allow archivists, librarians and others to replicate this work within their own institutions, Bachelor of Information students Thomas Fox, Harrison Huang and Russell Luchin created a toolkit for the Graph-Based Archival Description used at the Archives of Ontario.
+
+Download the Toolkit PDF here:
+<https://github.com/gbad-project/.github/raw/refs/heads/main/GBAD_Toolkit_Fox_Huang_Luchin_2025-04-10.pdf>
+
+License: [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+
 ## Project Summary
 
 The Archives of Ontario, the GLAM Incubator and Profs. Anastasia Kuzminykh and Shion Guha at the University of Toronto have collaborated to create a proof of concept that explores the possibilities and potential benefits of a graph-based data model for archival description, using the International Council on Archives’ new Records in Contexts (RiC) standard and Linked Open Data (RDF data format) ([Introductory YouTube video](https://youtu.be/TLHU_0QKOWQ)). The traditional archival finding aid, with its static and inflexible hierarchies, fails to represent the complexity and nuanced reality of record creation, accumulation, use and re-use over time.
