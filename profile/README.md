@@ -11,6 +11,9 @@ Download the Toolkit PDF here:
 
 License: [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
+Note: As of June 2, 2025, the Toolkit [was found](https://github.com/gbad-project/records_in_contexts_draw_io_parser/tree/99cdb78637abbe14e2a0cad3f63b0ca7d1df0c30/reproduce_gbad_toolkit) to require additional Python programming to be reproduced. Please [open an issue](https://github.com/gbad-project/records_in_contexts_draw_io_parser/issues/new) if you are reading this and need help, or reach out using the contacts indicated on the
+project’s GitHub page at: <https://github.com/gbad-project>
+
 ## Project Summary
 
 The Archives of Ontario, the GLAM Incubator and Profs. Anastasia Kuzminykh and Shion Guha at the University of Toronto have collaborated to create a proof of concept that explores the possibilities and potential benefits of a graph-based data model for archival description, using the International Council on Archives’ new Records in Contexts (RiC) standard and Linked Open Data (RDF data format) ([Introductory YouTube video](https://youtu.be/TLHU_0QKOWQ)). The traditional archival finding aid, with its static and inflexible hierarchies, fails to represent the complexity and nuanced reality of record creation, accumulation, use and re-use over time.
