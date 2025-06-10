@@ -2,6 +2,10 @@
 
 Welcome to the official GitHub page of the Graph-Based Archival Description project. The project is brought to you by a team from the Archives of Ontario and University of Toronto and co-funded from a Canadian federal grant.
 
+## Association of Canadian Archivists (ACA) Conference 2025
+
+Download the slide deck PDF here: <https://github.com/gbad-project/.github/raw/refs/heads/main/GGraph-Based_Archival_Description_-_ACA_Presentation_-_2025-06-10.pdf>
+
 # Implementation Toolkit
 
 April 2025 Update: To allow archivists, librarians and others to replicate this work within their own institutions, Bachelor of Information students Thomas Fox, Harrison Huang and Russell Luchin created a toolkit for the Graph-Based Archival Description used at the Archives of Ontario.
