@@ -4,7 +4,8 @@ Welcome to the official GitHub page of the Graph-Based Archival Description proj
 
 ## Association of Canadian Archivists (ACA) Conference 2025
 
-Download the slide deck PDF here: <https://github.com/gbad-project/.github/raw/refs/heads/main/GGraph-Based_Archival_Description_-_ACA_Presentation_-_2025-06-10.pdf>
+Download the slide deck PDF here: <https://github.com/gbad-project/.github/raw/refs/heads/main/
+Graph-Based_Archival_Description_-_ACA_Presentation_-_2025-06-10.pdf>
 
 # Implementation Toolkit
 
