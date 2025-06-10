@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub page of the Graph-Based Archival Description project. The project is brought to you by a team from the Archives of Ontario and University of Toronto and co-funded from a Canadian federal grant.
 
-## Association of Canadian Archivists (ACA) Conference 2025
+# Association of Canadian Archivists (ACA) Conference 2025
 
 Download the slide deck PDF here: <https://github.com/gbad-project/.github/raw/refs/heads/main/
 Graph-Based_Archival_Description_-_ACA_Presentation_-_2025-06-10.pdf>
