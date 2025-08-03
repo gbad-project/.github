@@ -42,4 +42,4 @@ Sparnatural fork and demo. <https://github.com/gbad-project/gbad-project.github.
 
 Our fork of a Visual Studio Code Turtle RDF code autocomplete extension. <https://github.com/gbad-project/turtle-vocab-autocomplete>
 
-Our fork of Trifid, a lightweight RDF server written in Node.js and built on top of an Oxigraph quadstore instance. <https://github.com/gbad-project/trifid>
+<!--- Our fork of Trifid, a lightweight RDF server written in Node.js and built on top of an Oxigraph quadstore instance. REMOVED for security reasons. There wasn't much was added on our side, though. Please explore the original repo if you are interested: <https://github.com/zazuko/trifid/> --->
